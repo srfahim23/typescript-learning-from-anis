@@ -1,0 +1,20 @@
+
+
+... Download and install node 
+
+    . check node installed or not: node --version 
+
+...Download and install text editor -Vscode 
+
+
+... Install typescript: 
+    .Global: npm install -g typecript  (sudo npm install -g typescript )
+
+    .local: npm install -save-dev typescript 
+    .check installed or not : tsc --version 
+
+
+
+How typescript work ? 
+
+index.ts > tsc index.ts > index.js 

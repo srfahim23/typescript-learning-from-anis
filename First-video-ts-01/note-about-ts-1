@@ -1,0 +1,56 @@
+Learning outcomes ::: 
+
+1. Prerequisites.
+2. What is TypeScript? 
+3. Why TypeScript?
+4. TypeScript version.
+5. A demo.
+
+
+1 Prerequisites
+
+    . Basic JavaScript-
+
+
+2. What is TypeScript? 
+
+    . Types/ additional features + JavaScript = TypeScript
+    . Js is dymanically types -> let x = 20; 
+    . TypeScript add static typing to js -> let x: number = 20/
+
+
+    . Developed and maintained by Microsoft. 
+    . Developed in 2012. 
+
+
+3. Why TypeScript? 
+
+    . Js Check types in run time while typescript add static typing to JS so we can handle errors before running the program. 
+
+    . Increase readability and code quality 
+
+    . popular JS library Angular use TypeScript.
+
+    . It can be used in both: client and server side. 
+
+    . Integllisence IDE support while coding: code completing, content a hinting 
+
+
+4. TypeScript versions ::: 
+
+... 
+.. 
+
+TypesScript 1.0 october 2014
+Typescript  2.0 September 2016
+TypesScript 3.0 July 2018
+TypeScript 4.0 - latest release August 2020 
+
+
+5. A demo without TypeScript : 
+
+// index.js 
+
+ and A demo with TypeScript ::
+
+// index.ts
